@@ -12247,3 +12247,13 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-08_05:12:10] TML Solution Studio: Github Remote Status: origin	https://github.com/osayeni/samuelnew (fetch)
 origin	https://<personal access token hidden>@github.com/osayeni/samuelnew.git (push)
+[INFO 2024-11-08_05:15:43] TML Solution Studio: TML Project Creation: Creating new TML project: /samuelnew/tml-airflow/dags/tml-solutions/finalprojectnew-00f8
+[INFO 2024-11-08_05:15:43] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/osayeni/samuelnew
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-11-08_05:16:23] TML Solution Studio: Starting Git commit process for project: finalprojectnew-00f8
+[INFO 2024-11-08_05:16:23] TML Solution Studio: git commit -a Status for project finalprojectnew-00f8: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-08_05:16:24] TML Solution Studio: git push origin main Status: Everything up-to-date
+[INFO 2024-11-08_05:16:29] TML Solution Studio: git add . Status: 
+[INFO 2024-11-08_05:16:29] TML Solution Studio: git commit -a Status for project finalprojectnew-00f8: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-08_05:16:29] TML Solution Studio: git push Status for project finalprojectnew-00f8: Everything up-to-date
