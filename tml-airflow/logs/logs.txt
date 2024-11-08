@@ -12288,3 +12288,4 @@ origin	https://<personal access token hidden>@github.com/osayeni/samuelnew.git (
 [INFO 2024-11-08_06:52:09] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalprojectnew-00f8.py
 [INFO 2024-11-08_06:52:25] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalprojectnew-00f8.py
 [INFO 2024-11-08_06:52:34] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalprojectnew-00f8.py
+[INFO 2024-11-08_06:52:39] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalprojectnew-00f8.py
