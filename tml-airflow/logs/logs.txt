@@ -12267,3 +12267,20 @@ Already up to date.
 [INFO 2024-11-08_05:44:56] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalprojectnew-00f8.py
 [INFO 2024-11-08_05:45:42] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalprojectnew-00f8.py
 [INFO 2024-11-08_05:45:56] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalprojectnew-00f8.py
+[INFO 2024-11-08_06:37:49] TML Solution Studio Started: DOCKERUSERNAME=osayeni, GITUSERNAME=osayeni, GITREPOURL=https://github.com/osayeni/samuelnew, AIRFLOWPORT=9000
+[INFO 2024-11-08_06:38:05] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-11-08_06:38:05] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/osayeni/samuelnew
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/osayeni/samuelnew.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-08_06:38:05] TML Solution Studio: Github Remote Status: origin	https://github.com/osayeni/samuelnew (fetch)
+origin	https://<personal access token hidden>@github.com/osayeni/samuelnew.git (push)
